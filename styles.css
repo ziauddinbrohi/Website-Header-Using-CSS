@@ -1,0 +1,24 @@
+.body{
+    height:1000px;
+    width:100%;
+}
+.head{
+    height:100px;
+    width:100%;
+    background-color:black;
+    color:white;
+    display: flex;
+}
+.p{
+    padding-top:20px;
+    font-size: larger;
+    padding-left:30px;
+}
+.main{
+    margin-top:-23px;
+    height:200px;
+    background-color: rgb(247, 245, 245);
+}
+.text{
+    font-size: larger;
+}
